@@ -4,8 +4,8 @@
 <p align="center"><img src="misc/first_example_f.png" alt="figure1" width=50%/></p>
 
 ## Abstract
-We propose Ego+X, an egocentric vision based system for 3D canonical pose estimation and human-centric social interaction characterization. Our system is composed of two head-mounted egocentric cameras, where one is faced downwards and the other looks outwards. By leveraging the global context provided by visual SLAM, we first propose
-Ego-Glo for spatial-accurate and temporal-consistent egocentric 3D pose estimation in the canonical coordinate system. With the help of an egocentric camera looking outwards, we then propose Ego-Soc by extending Ego-Glo to various social interaction tasks, e.g., object detection and human-human interaction.
+
+We propose Ego+X, an egocentric vision based system for 3D canonical pose estimation and human-centric social interaction characterization. Our system is composed of two head-mounted egocentric cameras, where one is faced downwards and the other looks outwards. By leveraging the global context provided by visual SLAM, we first propose Ego-Glo for spatial-accurate and temporal-consistent egocentric 3D pose estimation in the canonical coordinate system. With the help of an egocentric camera looking outwards, we then propose Ego-Soc by extending Ego-Glo to various social interaction tasks, e.g., object detection and human-human interaction.
 
 ## Contributions
 1) An egocentric vision system consisting of two cameras looking downwards and outwards respectively is proposed for social interaction characterization. Its capability in various downstream tasks is demonstrated.
