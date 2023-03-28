@@ -21,8 +21,10 @@ https://user-images.githubusercontent.com/86871168/228169022-7c87d95a-d77c-4c2d-
 
 
 ## Dataset
-- [x] ECHP Dataset[[link](https://github.com/Lrnyux/EgoCentric-Human-Pose-ECHP-Dataset)]
-- [x] Glo Dataset (will be published here soon)
+- [x] Part of the data we use is from <b>ECHP Dataset</b> [[link](https://github.com/Lrnyux/EgoCentric-Human-Pose-ECHP-Dataset)]
+- [x] Rest of the data is from <b>ECHP-Glo Dataset</b>. We release this dataset in this repo. This dataset contains three different sub-datasets.
+  -  Global Pose Dataset, which contains five global pose sequences recorded by VICON system.
+
 
 
 ## Citation
