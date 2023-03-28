@@ -23,7 +23,9 @@ https://user-images.githubusercontent.com/86871168/228169022-7c87d95a-d77c-4c2d-
 ## Dataset
 - [x] Part of the data we use is from <b>ECHP Dataset</b> [[link](https://github.com/Lrnyux/EgoCentric-Human-Pose-ECHP-Dataset)]
 - [x] Rest of the data is from <b>ECHP-Glo Dataset</b>. We release this dataset in this repo. This dataset contains three different sub-datasets.
-  -  Global Pose Dataset, which contains five global pose sequences recorded by VICON system.
+  -  Global Pose Dataset, which contains five global pose sequences recorded by VICON system. [[Baidu Disk](https://pan.baidu.com/s/1PUTYUr47bLEvocLwxEnxKg)](password:GPDD)
+  -  HOI Dataset, which contains five human-object interaction sequences recorded by a rgbd camera and an egocentric camera. [[Baidu Disk](https://pan.baidu.com/s/1ABsonkd2Jn72T99OrpL9HQ)](password:HOID)
+  -  HHI Dataset, which contains two human-human interaction sequences recorder by a rgbd camera and an egocentric camera. (Need to request due to privacy)
 
 
 
