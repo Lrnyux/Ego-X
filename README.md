@@ -21,8 +21,8 @@ https://user-images.githubusercontent.com/86871168/228169022-7c87d95a-d77c-4c2d-
 
 
 ## Dataset
--[x]ECHP Dataset[[link](https://github.com/Lrnyux/EgoCentric-Human-Pose-ECHP-Dataset)]
--[]Glo Dataset (will be published here soon)
+- [x] ECHP Dataset[[link](https://github.com/Lrnyux/EgoCentric-Human-Pose-ECHP-Dataset)]
+- [x] Glo Dataset (will be published here soon)
 
 
 ## Citation
