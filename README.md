@@ -14,3 +14,17 @@ Ego-Glo for spatial-accurate and temporal-consistent egocentric 3D pose estimati
 2) An effective framework for 3D canonical pose estimation from an egocentric fisheye camera is developed, in which a pose refine module is proposed to improve the estimation in both temporal and spatial domains.
 
 <p align="center"><img src="misc/illumination_f.png" alt="figure1" width=70%/></p>
+
+## Citation
+If you find our paper/dataset/code useful, please consider citing:
+```bibtex
+@INPROCEEDINGS{liu2022Egox,
+  author={Liu, Yuxuan and Yang, Jianxin and Gu, Xiao and Guo, Yao and Yang, Guang-Zhong},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Ego+X: An Egocentric Vision System for Global 3D Human Pose Estimation and Social Interaction Characterization}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={5271-5277},
+  doi={10.1109/IROS47612.2022.9981710}}
+```
