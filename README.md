@@ -20,8 +20,9 @@ Ego-Glo for spatial-accurate and temporal-consistent egocentric 3D pose estimati
 https://user-images.githubusercontent.com/86871168/228169022-7c87d95a-d77c-4c2d-b1d8-e132f4b76129.mp4
 
 
-
-
+## Dataset
+-[x]ECHP Dataset[[link](https://github.com/Lrnyux/EgoCentric-Human-Pose-ECHP-Dataset)]
+-[]Glo Dataset (will be published here soon)
 
 
 ## Citation
