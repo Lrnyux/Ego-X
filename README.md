@@ -16,7 +16,7 @@ Ego-Glo for spatial-accurate and temporal-consistent egocentric 3D pose estimati
 <p align="center"><img src="misc/illumination_f.png" alt="figure1" width=70%/></p>
 
 ## Brief Introduction
-  <video><source id="mp4" src="misc/Iros 2022 Video Final.mp4" type="video/mp4"></video>
+  <video><source id="mp4" src="https://github.com/Lrnyux/Ego-X/tree/main/misc/Iros 2022 Video Final.mp4" type="video/mp4"></video>
 
 
 
