@@ -3,3 +3,5 @@
 
 [[paper](https://ieeexplore.ieee.org/abstract/document/9981710)]
 
+<p align="center"><img src="misc/first_example_f.png" alt="figure1" width=50%/></p>
+
