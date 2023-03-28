@@ -13,7 +13,7 @@ Ego-Glo for spatial-accurate and temporal-consistent egocentric 3D pose estimati
 1) An egocentric vision system consisting of two cameras looking downwards and outwards respectively is proposed for social interaction characterization. Its capability in various downstream tasks is demonstrated.
 2) An effective framework for 3D canonical pose estimation from an egocentric fisheye camera is developed, in which a pose refine module is proposed to improve the estimation in both temporal and spatial domains.
 
-<p align="center"><img src="misc/illumination_f.png" alt="figure1" width=70%/></p>
+<p align="center"><img src="misc/illumination_f.png" alt="figure1" width=100%/></p>
 
 ## Brief Introduction
 
